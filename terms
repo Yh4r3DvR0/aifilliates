@@ -1,0 +1,201 @@
+# Terms of Service
+
+**Last updated: October 23, 2026**
+
+## 1. Introduction
+
+These Terms of Service ("Terms") govern your access to and use of aifilliates, including the `n8n_bridge` application, its website, software, features, and related services (collectively, the "Service").
+
+By accessing or using the Service, you agree to be bound by these Terms. If you do not agree to these Terms, you must not use the Service.
+
+## 2. Definitions
+
+For the purposes of these Terms:
+
+- **"Service"** means the aifilliates platform, the `n8n_bridge` application, and any related tools, features, and services provided by us.
+- **"Provider," "we," "us," or "our"** refers to the individual or legal entity operating the Service.
+- **"User," "you," or "your"** refers to any individual or legal entity accessing or using the Service.
+- **"Third-Party Services"** means external platforms, software, APIs, integrations, or services that may be used in connection with the Service.
+
+## 3. Eligibility
+
+You may use the Service only if you are legally capable of entering into a binding agreement under the laws applicable to you.
+
+If you use the Service on behalf of an organization, you represent that you have the authority to bind that organization to these Terms.
+
+You are responsible for ensuring that your use of the Service complies with applicable laws and regulations.
+
+## 4. Description of the Service
+
+The Service may provide software tools, integrations, automation capabilities, and other functionality designed to support users in their workflows.
+
+Features may change, be added, suspended, or discontinued at any time, subject to applicable law and any contractual commitments we have made to you.
+
+We do not guarantee that the Service will always be available, uninterrupted, error-free, or compatible with every device, platform, integration, or configuration.
+
+## 5. Acceptable Use
+
+You agree to use the Service only for lawful purposes and in accordance with these Terms.
+
+You must not:
+
+- Use the Service for any illegal, fraudulent, deceptive, or unauthorized activity.
+- Violate the rights of any individual or organization, including intellectual property, privacy, and data protection rights.
+- Attempt to gain unauthorized access to the Service, its infrastructure, accounts, systems, or data.
+- Interfere with, disrupt, damage, or compromise the security or performance of the Service.
+- Introduce malware, malicious code, or other harmful material.
+- Abuse APIs, integrations, automation features, or system resources in a way that causes unreasonable disruption.
+- Circumvent applicable security controls, rate limits, or access restrictions.
+- Use the Service to send spam, conduct unauthorized communications, or engage in activities prohibited by applicable law.
+
+We reserve the right to investigate suspected violations and take appropriate action, subject to applicable law.
+
+## 6. Accounts and Security
+
+If the Service requires an account, you agree to provide accurate and complete information and to keep that information up to date.
+
+You are responsible for safeguarding your credentials and for activities conducted through your account, except to the extent that applicable law provides otherwise.
+
+You must notify us promptly if you become aware of unauthorized access to your account or any security incident involving the Service.
+
+We may restrict or suspend access when reasonably necessary to protect users, the Service, or third parties, or to comply with legal obligations.
+
+## 7. Third-Party Services and Integrations
+
+The Service may interact with third-party platforms, APIs, automation tools, hosting providers, and other external services.
+
+Your use of those services may be subject to separate terms, licenses, privacy policies, usage limits, and fees established by their respective providers.
+
+We do not control and are not responsible for the availability, security, policies, or functionality of third-party services, except where responsibility cannot lawfully be excluded.
+
+You are responsible for obtaining the permissions, credentials, API keys, and authorizations necessary to use any integrations you configure.
+
+## 8. User Content and Data
+
+You retain ownership of content and data that you lawfully own and submit to or process through the Service.
+
+You grant us only the rights reasonably necessary to operate, provide, maintain, and secure the Service in accordance with these Terms and our Privacy Policy.
+
+You represent that you have all necessary rights and permissions to submit, process, or transmit content and data through the Service.
+
+You are responsible for ensuring that your use of personal data complies with applicable privacy and data protection laws.
+
+You must not submit confidential, sensitive, or personal information unless you have a lawful basis to do so and the Service is appropriate for that information.
+
+## 9. Intellectual Property
+
+The Service and its original content, branding, design, and materials are owned by or licensed to the Provider, unless otherwise stated.
+
+These Terms do not transfer ownership of intellectual property to you.
+
+You may use the Service only as permitted by these Terms and any applicable license.
+
+If any component of the Service is distributed under an open-source license, that license governs your rights and obligations concerning that component to the extent of any conflict with these Terms.
+
+You must not remove proprietary notices or misrepresent ownership of intellectual property belonging to the Provider or third parties.
+
+## 10. Fees and Payments
+
+If any features of the Service are offered for a fee, the applicable prices, billing terms, and payment conditions will be disclosed before you make a purchase.
+
+Unless otherwise stated, you are responsible for charges incurred through your use of third-party services, including hosting, API usage, subscriptions, and other external costs.
+
+Any refunds, cancellations, or recurring billing arrangements will be governed by the terms presented at the time of purchase and applicable law.
+
+## 11. Privacy
+
+Your use of the Service is also governed by our Privacy Policy, which explains how we collect, use, store, and disclose personal information.
+
+You can review the Privacy Policy here:
+
+https://raw.githubusercontent.com/Yh4r3DvR0/aifilliates/refs/heads/main/privacy
+
+By using the Service, you acknowledge that you have had the opportunity to review the Privacy Policy.
+
+Nothing in these Terms limits any privacy or data protection rights that cannot lawfully be waived.
+
+## 12. Availability and Modifications
+
+We may update, modify, maintain, suspend, or discontinue portions of the Service for operational, security, legal, or business reasons.
+
+Where required by law or an applicable agreement, we will provide appropriate notice of material changes or interruptions.
+
+We are not responsible for interruptions caused by circumstances beyond our reasonable control, subject to applicable law.
+
+## 13. Disclaimer of Warranties
+
+To the maximum extent permitted by applicable law, the Service is provided on an "AS IS" and "AS AVAILABLE" basis.
+
+We do not warrant that the Service will be uninterrupted, secure, error-free, or suitable for every particular purpose.
+
+We do not guarantee the accuracy, completeness, reliability, or results of any output, automation, integration, or process performed through the Service.
+
+Nothing in these Terms excludes warranties or consumer rights that cannot lawfully be excluded or limited.
+
+## 14. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Provider will not be liable for indirect, incidental, special, consequential, or punitive damages, or for loss of profits, revenue, data, business opportunities, or goodwill arising from the use of or inability to use the Service.
+
+To the extent permitted by applicable law, the Provider's aggregate liability arising out of or relating to the Service will be limited to the amount you paid directly to the Provider for the Service during the twelve (12) months preceding the event giving rise to the claim.
+
+If you use the Service without paying any fees directly to the Provider, this limitation will apply only to the extent permitted by applicable law.
+
+These limitations do not apply to liability that cannot legally be excluded or limited, including any liability that applicable law requires to remain enforceable.
+
+## 15. Indemnification
+
+To the extent permitted by applicable law, you agree to be responsible for claims, losses, and reasonable expenses arising from your unlawful use of the Service, your violation of these Terms, or your infringement of third-party rights.
+
+Nothing in this section requires you to indemnify the Provider for losses caused by the Provider's own unlawful conduct or for any liability that cannot lawfully be transferred to you.
+
+## 16. Suspension and Termination
+
+You may stop using the Service at any time.
+
+We may suspend or terminate your access if reasonably necessary because of a material breach of these Terms, security risks, unlawful activity, or a legal obligation.
+
+Where appropriate and legally permissible, we will provide notice and an opportunity to remedy a violation before termination.
+
+Upon termination, your right to use the affected Service ends. Provisions that by their nature should survive termination will remain effective, including applicable provisions concerning intellectual property, disclaimers, liability, and dispute resolution.
+
+Any handling or deletion of personal information following termination will be governed by our Privacy Policy and applicable law.
+
+## 17. Changes to These Terms
+
+We may revise these Terms from time to time.
+
+When changes are material, we will provide notice through the Service, by email where available, or by another appropriate method when required by law.
+
+The updated version will include a revised "Last updated" date.
+
+Your continued use of the Service after revised Terms take effect constitutes acceptance only to the extent permitted by applicable law. Where affirmative consent is required, we will obtain it.
+
+## 18. Governing Law
+
+These Terms will be governed by the laws applicable to the Provider's legally established place of operation, without regard to conflict-of-law principles, except where mandatory consumer protection or other applicable laws provide otherwise.
+
+Nothing in this section deprives consumers of protections or rights that cannot lawfully be excluded under the laws of their country or place of residence.
+
+Any disputes will be handled by the competent courts or dispute resolution bodies determined under applicable law.
+
+## 19. Severability
+
+If any provision of these Terms is found to be invalid, unlawful, or unenforceable, the remaining provisions will continue in effect to the extent legally permissible.
+
+The invalid provision will be interpreted or modified only to the extent necessary to make it enforceable where legally permitted.
+
+## 20. Entire Agreement
+
+These Terms, together with the Privacy Policy and any additional terms expressly applicable to particular features or services, constitute the agreement governing your use of the Service.
+
+If additional terms conflict with these Terms, the additional terms will prevail only for the specific feature or service to which they expressly apply, subject to applicable law.
+
+## 21. Contact Information
+
+For questions, concerns, or requests relating to these Terms, please contact the Provider through the official contact method published on the Service's website or repository.
+
+**Provider:** [Insert your legal name or registered business name]
+
+**Website:** [Insert your official website URL]
+
+**Contact email:** [Insert your support email address]
